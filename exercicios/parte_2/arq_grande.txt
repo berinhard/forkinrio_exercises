@@ -1,0 +1,12 @@
+linha 1
+bernardo botelho fontes
+nao sei o que fazer
+42
+linha,1,tem,dados
+bernardo,botelho,fontes,eh,foda
+nao,sei,o,que,fazer
+
+esse arquivo serve para eu brincar de dividi-lo!
+será que isso cabe dentro de um só?
+
+4.352,3.14

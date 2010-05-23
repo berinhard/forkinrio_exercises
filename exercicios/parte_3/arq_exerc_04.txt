@@ -1,0 +1,5 @@
+linha,1,tem,dados
+bernardo,botelho,fontes,eh,foda
+nao,sei,o,que,fazer
+
+4.352,3.14,,
